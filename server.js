@@ -1,5 +1,4 @@
 var port,
-    server,
     service,
     system = require("system"),
     page = require("webpage").create(),
